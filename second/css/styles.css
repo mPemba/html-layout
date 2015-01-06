@@ -22,13 +22,9 @@ html, body {
 	background: hsl(90, 69%, 72%);
 }
 
-.imgPlaceHold {
+.img {
 	height: 30%;
 	width: 33.3%;
 	float: right;
-	background: red;
-}
-.placeHold {
-	color: white;
-	text-align: center;
+	background: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRON_onZXoCSTNB50syHhYDVD9PIHQ43VUOaujHvJGmOynsm8zaJA");
 }
