@@ -1,0 +1,56 @@
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+.top {
+	height: 17%;
+	width: 100%;
+	background: hsl(0, 0%, 85%);
+	padding-top: 20px;
+}
+
+.mini {
+	height: 80%;
+	width: 8%;
+	background: hsl(212, 73%, 59%);
+	margin: auto 20px;
+}
+
+.textBox {
+	text-align: center;
+	line-height: 1.5em;
+	font-family: 'verdana', sans-serif;
+	height: 28%;
+	width: 100%;
+	background: #fff;
+}
+.daVinci {
+	height: 14%;
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+}
+
+.blue {
+	height: 14%;
+	width: 100%;
+	background: hsl(212, 73%, 59%);
+}
+
+.aqua {
+	height: 14%;
+	width: 100%;
+	background: hsl(167, 73%, 60%);
+}
+
+.green {
+	height: 14%;
+	width: 100%;
+	background: hsl(90, 69%, 72%);
+}
+
+.yellow {
+	height: 14%;
+	width: 100%;
+	background: hsl(55, 94%, 54%);
+}
