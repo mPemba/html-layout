@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+}
+.blue {
+	height: 100%;
+	width: 33.3%;
+	float: left;
+	background: hsl(212, 73%, 59%);
+}
+
+.aqua {
+	height: 100%;
+	width: 33.3%;
+	float: left;
+	background: hsl(167, 73%, 60%);
+}
+
+.green {
+	height: 70%;
+	width: 33.3%;
+	float: right;
+	background: hsl(90, 69%, 72%);
+}
+
+.imgPlaceHold {
+	height: 30%;
+	width: 33.3%;
+	float: right;
+	background: red;
+}
+.placeHold {
+	color: white;
+	text-align: center;
+}
